@@ -1,0 +1,1 @@
+# serverless-s3zip
